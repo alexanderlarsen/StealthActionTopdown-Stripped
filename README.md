@@ -3,7 +3,7 @@
 
 During a two-month development of this top-down stealth action shooter game, my aim was creating a vertical slice that both draws inspiration from and expands upon the gameplay of Metal Gear Solid: VR Missions (1999). All code in the Assets/Scripts folder of this repo has been written by me. 
 
-You can read more about the project or grab a build to try out on my website: https://alexanderlarsen.com 
+You can read more about the project or grab a build to try out on my [website](https://alexanderlarsen.com/top-down-stealth-action-shooter/).
 
 ![Screenshot](Screenshot.png)
 
