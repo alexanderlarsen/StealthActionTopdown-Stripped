@@ -1,0 +1,1381 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LowerBodyMask
+  m_Mask: 01000000000000000000000001000000010000000000000000000000000000000000000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Bip001
+    m_Weight: 1
+  - m_Path: Bip001/Bip001 Footsteps
+    m_Weight: 1
+  - m_Path: Bip001/Bip001 Pelvis
+    m_Weight: 1
+  - m_Path: Bip001/Bip001 Pelvis/Bip001 L Thigh
+    m_Weight: 1
+  - m_Path: Bip001/Bip001 Pelvis/Bip001 L Thigh/Bip001 L Calf
+    m_Weight: 1
+  - m_Path: Bip001/Bip001 Pelvis/Bip001 L Thigh/Bip001 L Calf/Bip001 L Foot
+    m_Weight: 1
+  - m_Path: Bip001/Bip001 Pelvis/Bip001 L Thigh/Bip001 L Calf/Bip001 L Foot/Bip001
+      L Toe0
+    m_Weight: 1
+  - m_Path: Bip001/Bip001 Pelvis/Bip001 L Thigh/Bip001 L Calf/Bip001 L Foot/Bip001
+      L Toe0/Bip001 L Toe0Nub
+    m_Weight: 1
+  - m_Path: Bip001/Bip001 Pelvis/Bip001 R Thigh
+    m_Weight: 1
+  - m_Path: Bip001/Bip001 Pelvis/Bip001 R Thigh/Bip001 R Calf
+    m_Weight: 1
+  - m_Path: Bip001/Bip001 Pelvis/Bip001 R Thigh/Bip001 R Calf/Bip001 R Foot
+    m_Weight: 1
+  - m_Path: Bip001/Bip001 Pelvis/Bip001 R Thigh/Bip001 R Calf/Bip001 R Foot/Bip001
+      R Toe0
+    m_Weight: 1
+  - m_Path: Bip001/Bip001 Pelvis/Bip001 R Thigh/Bip001 R Calf/Bip001 R Foot/Bip001
+      R Toe0/Bip001 R Toe0Nub
+    m_Weight: 1
+  - m_Path: Bip001/Bip001 Pelvis/Bip001 Spine
+    m_Weight: 1
+  - m_Path: Bip001/Bip001 Pelvis/Bip001 Spine/Backpack_container
+    m_Weight: 1
+  - m_Path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 L Clavicle
+    m_Weight: 1
+  - m_Path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 L Clavicle/Bip001 L UpperArm
+    m_Weight: 1
+  - m_Path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 L Clavicle/Bip001 L UpperArm/Bip001
+      L Forearm
+    m_Weight: 1
+  - m_Path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 L Clavicle/Bip001 L UpperArm/Bip001
+      L Forearm/Bip001 L Hand
+    m_Weight: 1
+  - m_Path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 L Clavicle/Bip001 L UpperArm/Bip001
+      L Forearm/Bip001 L Hand/L_hand_container
+    m_Weight: 1
+  - m_Path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Neck
+    m_Weight: 1
+  - m_Path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Neck/Bip001 Head
+    m_Weight: 1
+  - m_Path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Neck/Bip001 Head/Bip001 HeadNub
+    m_Weight: 1
+  - m_Path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Neck/Bip001 Head/HEAD_CONTAINER
+    m_Weight: 1
+  - m_Path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 R Clavicle
+    m_Weight: 1
+  - m_Path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 R Clavicle/Bip001 R UpperArm
+    m_Weight: 1
+  - m_Path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 R Clavicle/Bip001 R UpperArm/Bip001
+      R Forearm
+    m_Weight: 1
+  - m_Path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 R Clavicle/Bip001 R UpperArm/Bip001
+      R Forearm/Bip001 R Hand
+    m_Weight: 1
+  - m_Path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 R Clavicle/Bip001 R UpperArm/Bip001
+      R Forearm/Bip001 R Hand/R_hand_container
+    m_Weight: 1
+  - m_Path: MAterial_ToBe_Assigned
+    m_Weight: 1
+  - m_Path: MAterial_ToBe_Assigned/Body_long_00
+    m_Weight: 1
+  - m_Path: MAterial_ToBe_Assigned/Body_Militia_desert_01
+    m_Weight: 1
+  - m_Path: MAterial_ToBe_Assigned/Body_Militia_desert_02
+    m_Weight: 1
+  - m_Path: MAterial_ToBe_Assigned/Head_militias_desert_A
+    m_Weight: 1
+  - m_Path: MAterial_ToBe_Assigned/head_soldier_01_P
+    m_Weight: 1
+  - m_Path: MAterial_ToBe_Assigned/head_soldier_01_Q
+    m_Weight: 1
+  - m_Path: MAterial_ToBe_Assigned/head_soldier_01_R
+    m_Weight: 1
+  - m_Path: MAterial_ToBe_Assigned/head_soldier_01_S
+    m_Weight: 1
+  - m_Path: MAterial_ToBe_Assigned/head_soldier_01_T
+    m_Weight: 1
+  - m_Path: MAterial_ToBe_Assigned/head_soldier_01_V
+    m_Weight: 1
+  - m_Path: MAterial_ToBe_Assigned/head_soldier_01_W
+    m_Weight: 1
+  - m_Path: MAterial_ToBe_Assigned/head_soldier_01_X
+    m_Weight: 1
+  - m_Path: MAterial_ToBe_Assigned/head_soldier_01_Y
+    m_Weight: 1
+  - m_Path: MAterial_ToBe_Assigned/TTS_Backpack_plain_A001
+    m_Weight: 1
+  - m_Path: MAterial_ToBe_Assigned/TTS_Body_plain__officer
+    m_Weight: 1
+  - m_Path: TTS_Heads_Basic
+    m_Weight: 1
+  - m_Path: TTS_Heads_Basic/TTS_Head_basic_00
+    m_Weight: 1
+  - m_Path: TTS_Heads_Basic/TTS_Head_basic_01
+    m_Weight: 1
+  - m_Path: TTS_Heads_Basic/TTS_Head_basic_02
+    m_Weight: 1
+  - m_Path: TTS_Heads_Basic/TTS_Head_basic_03
+    m_Weight: 1
+  - m_Path: TTS_Heads_Basic/TTS_Head_basic_04
+    m_Weight: 1
+  - m_Path: TTS_Heads_Basic/TTS_Head_basic_05
+    m_Weight: 1
+  - m_Path: TTS_Heads_Basic/TTS_Head_basic_06
+    m_Weight: 1
+  - m_Path: TTS_Heads_Extra
+    m_Weight: 1
+  - m_Path: TTS_Heads_Extra/TTS_Head_Extra_01
+    m_Weight: 1
+  - m_Path: TTS_Heads_Extra/TTS_Head_Extra_02
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_A_Multicam
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_A_Multicam/TTS_Bodies_camo_A
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_A_Multicam/TTS_Bodies_camo_A/TTS_Backpack_A
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_A_Multicam/TTS_Bodies_camo_A/TTS_Body_camo_A_01
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_A_Multicam/TTS_Bodies_camo_A/TTS_Body_camo_A_02
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_A_Multicam/TTS_Bodies_camo_A/TTS_Body_camo_A_03
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_A_Multicam/TTS_Bodies_camo_A/TTS_Body_camo_A_04
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_A_Multicam/TTS_Bodies_camo_A/TTS_Body_camo_A_05
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_A_Multicam/TTS_Bodies_camo_A/TTS_Body_camo_A_06
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_A_Multicam/TTS_Heads_camo_A
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_A_Multicam/TTS_Heads_camo_A/TTS_Head_camo_A_00
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_A_Multicam/TTS_Heads_camo_A/TTS_Head_camo_A_01
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_A_Multicam/TTS_Heads_camo_A/TTS_Head_camo_A_02
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_A_Multicam/TTS_Heads_camo_A/TTS_Head_camo_A_03
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_A_Multicam/TTS_Heads_camo_A/TTS_Head_camo_A_04
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_A_Multicam/TTS_Heads_camo_A/TTS_Head_camo_A_05
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_A_Multicam/TTS_Heads_camo_A/TTS_Head_camo_A_06
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_A_Multicam/TTS_Heads_camo_A/TTS_Head_camo_A_07
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_A_Multicam/TTS_Heads_camo_A/TTS_Head_camo_A_08
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_A_Multicam/TTS_Heads_camo_A/TTS_Head_camo_A_09
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_A_Multicam/TTS_Heads_camo_A/TTS_Head_camo_A_10
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_A_Multicam/TTS_Heads_camo_A/TTS_Head_camo_A_11
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_A_Multicam/TTS_Heads_camo_A/TTS_Head_camo_A_12
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_A_Multicam/TTS_Heads_camo_A/TTS_Head_camo_A_13
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_A_Multicam/TTS_Heads_camo_A/TTS_Head_camo_A_14
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_A_Multicam/TTS_Heads_camo_A/TTS_Head_camo_A_15
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_A_Multicam/TTS_Heads_camo_A/TTS_Head_camo_A_16
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_B_Jungle
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_B_Jungle/TTS_Bodies_camo_B
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_B_Jungle/TTS_Bodies_camo_B/Backpack_B
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_B_Jungle/TTS_Bodies_camo_B/TTS_Body_camo_B_01
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_B_Jungle/TTS_Bodies_camo_B/TTS_Body_camo_B_02
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_B_Jungle/TTS_Bodies_camo_B/TTS_Body_camo_B_03
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_B_Jungle/TTS_Bodies_camo_B/TTS_Body_camo_B_04
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_B_Jungle/TTS_Bodies_camo_B/TTS_Body_camo_B_05
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_B_Jungle/TTS_Bodies_camo_B/TTS_Body_camo_B_06
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_B_Jungle/TTS_Heads_camo_B
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_B_Jungle/TTS_Heads_camo_B/TTS_Head_camo_B_00
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_B_Jungle/TTS_Heads_camo_B/TTS_Head_camo_B_01
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_B_Jungle/TTS_Heads_camo_B/TTS_Head_camo_B_02
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_B_Jungle/TTS_Heads_camo_B/TTS_Head_camo_B_03
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_B_Jungle/TTS_Heads_camo_B/TTS_Head_camo_B_04
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_B_Jungle/TTS_Heads_camo_B/TTS_Head_camo_B_05
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_B_Jungle/TTS_Heads_camo_B/TTS_Head_camo_B_06
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_B_Jungle/TTS_Heads_camo_B/TTS_Head_camo_B_07
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_B_Jungle/TTS_Heads_camo_B/TTS_Head_camo_B_08
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_B_Jungle/TTS_Heads_camo_B/TTS_Head_camo_B_09
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_B_Jungle/TTS_Heads_camo_B/TTS_Head_camo_B_10
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_B_Jungle/TTS_Heads_camo_B/TTS_Head_camo_B_11
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_B_Jungle/TTS_Heads_camo_B/TTS_Head_camo_B_12
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_B_Jungle/TTS_Heads_camo_B/TTS_Head_camo_B_13
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_B_Jungle/TTS_Heads_camo_B/TTS_Head_camo_B_14
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_B_Jungle/TTS_Heads_camo_B/TTS_Head_camo_B_15
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_B_Jungle/TTS_Heads_camo_B/TTS_Head_camo_B_16
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_C_Woodlands
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_C_Woodlands/TTS_Bodies_camo_C
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_C_Woodlands/TTS_Bodies_camo_C/TTS_Backpack_C
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_C_Woodlands/TTS_Bodies_camo_C/TTS_Body_camo_C_01
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_C_Woodlands/TTS_Bodies_camo_C/TTS_Body_camo_C_02
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_C_Woodlands/TTS_Bodies_camo_C/TTS_Body_camo_C_03
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_C_Woodlands/TTS_Bodies_camo_C/TTS_Body_camo_C_04
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_C_Woodlands/TTS_Bodies_camo_C/TTS_Body_camo_C_05
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_C_Woodlands/TTS_Bodies_camo_C/TTS_Body_camo_C_06
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_C_Woodlands/TTS_Heads_camo_C
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_C_Woodlands/TTS_Heads_camo_C/TTS_Head_camo_C_00
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_C_Woodlands/TTS_Heads_camo_C/TTS_Head_camo_C_01
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_C_Woodlands/TTS_Heads_camo_C/TTS_Head_camo_C_02
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_C_Woodlands/TTS_Heads_camo_C/TTS_Head_camo_C_03
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_C_Woodlands/TTS_Heads_camo_C/TTS_Head_camo_C_04
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_C_Woodlands/TTS_Heads_camo_C/TTS_Head_camo_C_05
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_C_Woodlands/TTS_Heads_camo_C/TTS_Head_camo_C_06
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_C_Woodlands/TTS_Heads_camo_C/TTS_Head_camo_C_07
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_C_Woodlands/TTS_Heads_camo_C/TTS_Head_camo_C_08
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_C_Woodlands/TTS_Heads_camo_C/TTS_Head_camo_C_09
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_C_Woodlands/TTS_Heads_camo_C/TTS_Head_camo_C_10
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_C_Woodlands/TTS_Heads_camo_C/TTS_Head_camo_C_11
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_C_Woodlands/TTS_Heads_camo_C/TTS_Head_camo_C_12
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_C_Woodlands/TTS_Heads_camo_C/TTS_Head_camo_C_13
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_C_Woodlands/TTS_Heads_camo_C/TTS_Head_camo_C_14
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_C_Woodlands/TTS_Heads_camo_C/TTS_Head_camo_C_15
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_C_Woodlands/TTS_Heads_camo_C/TTS_Head_camo_C_16
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_D_UCP
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_D_UCP/TTS_Bodies_camo_D
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_D_UCP/TTS_Bodies_camo_D/TTS_Backpack_D
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_D_UCP/TTS_Bodies_camo_D/TTS_Body_camo_D_01
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_D_UCP/TTS_Bodies_camo_D/TTS_Body_camo_D_02
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_D_UCP/TTS_Bodies_camo_D/TTS_Body_camo_D_03
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_D_UCP/TTS_Bodies_camo_D/TTS_Body_camo_D_04
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_D_UCP/TTS_Bodies_camo_D/TTS_Body_camo_D_05
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_D_UCP/TTS_Bodies_camo_D/TTS_Body_camo_D_06
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_D_UCP/TTS_Heads_camo_D
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_D_UCP/TTS_Heads_camo_D/TTS_Head_camo_D_00
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_D_UCP/TTS_Heads_camo_D/TTS_Head_camo_D_01
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_D_UCP/TTS_Heads_camo_D/TTS_Head_camo_D_02
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_D_UCP/TTS_Heads_camo_D/TTS_Head_camo_D_03
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_D_UCP/TTS_Heads_camo_D/TTS_Head_camo_D_04
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_D_UCP/TTS_Heads_camo_D/TTS_Head_camo_D_05
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_D_UCP/TTS_Heads_camo_D/TTS_Head_camo_D_06
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_D_UCP/TTS_Heads_camo_D/TTS_Head_camo_D_07
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_D_UCP/TTS_Heads_camo_D/TTS_Head_camo_D_08
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_D_UCP/TTS_Heads_camo_D/TTS_Head_camo_D_09
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_D_UCP/TTS_Heads_camo_D/TTS_Head_camo_D_10
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_D_UCP/TTS_Heads_camo_D/TTS_Head_camo_D_11
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_D_UCP/TTS_Heads_camo_D/TTS_Head_camo_D_12
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_D_UCP/TTS_Heads_camo_D/TTS_Head_camo_D_13
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_D_UCP/TTS_Heads_camo_D/TTS_Head_camo_D_14
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_D_UCP/TTS_Heads_camo_D/TTS_Head_camo_D_15
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_D_UCP/TTS_Heads_camo_D/TTS_Head_camo_D_16
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_E_Digital_Desert
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_E_Digital_Desert/TTS_Bodies_camo_E
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_E_Digital_Desert/TTS_Bodies_camo_E/TTS_Backpack_E
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_E_Digital_Desert/TTS_Bodies_camo_E/TTS_Body_camo_E_01
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_E_Digital_Desert/TTS_Bodies_camo_E/TTS_Body_camo_E_02
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_E_Digital_Desert/TTS_Bodies_camo_E/TTS_Body_camo_E_03
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_E_Digital_Desert/TTS_Bodies_camo_E/TTS_Body_camo_E_04
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_E_Digital_Desert/TTS_Bodies_camo_E/TTS_Body_camo_E_05
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_E_Digital_Desert/TTS_Bodies_camo_E/TTS_Body_camo_E_06
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_E_Digital_Desert/TTS_Heads_camo_E
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_E_Digital_Desert/TTS_Heads_camo_E/TTS_Head_camo_E_00
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_E_Digital_Desert/TTS_Heads_camo_E/TTS_Head_camo_E_01
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_E_Digital_Desert/TTS_Heads_camo_E/TTS_Head_camo_E_02
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_E_Digital_Desert/TTS_Heads_camo_E/TTS_Head_camo_E_03
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_E_Digital_Desert/TTS_Heads_camo_E/TTS_Head_camo_E_04
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_E_Digital_Desert/TTS_Heads_camo_E/TTS_Head_camo_E_05
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_E_Digital_Desert/TTS_Heads_camo_E/TTS_Head_camo_E_06
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_E_Digital_Desert/TTS_Heads_camo_E/TTS_Head_camo_E_07
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_E_Digital_Desert/TTS_Heads_camo_E/TTS_Head_camo_E_08
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_E_Digital_Desert/TTS_Heads_camo_E/TTS_Head_camo_E_09
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_E_Digital_Desert/TTS_Heads_camo_E/TTS_Head_camo_E_10
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_E_Digital_Desert/TTS_Heads_camo_E/TTS_Head_camo_E_11
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_E_Digital_Desert/TTS_Heads_camo_E/TTS_Head_camo_E_12
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_E_Digital_Desert/TTS_Heads_camo_E/TTS_Head_camo_E_13
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_E_Digital_Desert/TTS_Heads_camo_E/TTS_Head_camo_E_14
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_E_Digital_Desert/TTS_Heads_camo_E/TTS_Head_camo_E_15
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_E_Digital_Desert/TTS_Heads_camo_E/TTS_Head_camo_E_16
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_F_Digital_Woodlands
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_F_Digital_Woodlands/TTS_Bodies_camo_F
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_F_Digital_Woodlands/TTS_Bodies_camo_F/TTS_Backpack_F
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_F_Digital_Woodlands/TTS_Bodies_camo_F/TTS_Body_camo_F_01
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_F_Digital_Woodlands/TTS_Bodies_camo_F/TTS_Body_camo_F_02
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_F_Digital_Woodlands/TTS_Bodies_camo_F/TTS_Body_camo_F_03
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_F_Digital_Woodlands/TTS_Bodies_camo_F/TTS_Body_camo_F_04
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_F_Digital_Woodlands/TTS_Bodies_camo_F/TTS_Body_camo_F_05
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_F_Digital_Woodlands/TTS_Bodies_camo_F/TTS_Body_camo_F_06
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_F_Digital_Woodlands/TTS_Heads_camo_F
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_F_Digital_Woodlands/TTS_Heads_camo_F/TTS_Head_camo_F_00
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_F_Digital_Woodlands/TTS_Heads_camo_F/TTS_Head_camo_F_01
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_F_Digital_Woodlands/TTS_Heads_camo_F/TTS_Head_camo_F_02
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_F_Digital_Woodlands/TTS_Heads_camo_F/TTS_Head_camo_F_03
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_F_Digital_Woodlands/TTS_Heads_camo_F/TTS_Head_camo_F_04
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_F_Digital_Woodlands/TTS_Heads_camo_F/TTS_Head_camo_F_05
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_F_Digital_Woodlands/TTS_Heads_camo_F/TTS_Head_camo_F_06
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_F_Digital_Woodlands/TTS_Heads_camo_F/TTS_Head_camo_F_07
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_F_Digital_Woodlands/TTS_Heads_camo_F/TTS_Head_camo_F_08
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_F_Digital_Woodlands/TTS_Heads_camo_F/TTS_Head_camo_F_09
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_F_Digital_Woodlands/TTS_Heads_camo_F/TTS_Head_camo_F_10
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_F_Digital_Woodlands/TTS_Heads_camo_F/TTS_Head_camo_F_11
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_F_Digital_Woodlands/TTS_Heads_camo_F/TTS_Head_camo_F_12
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_F_Digital_Woodlands/TTS_Heads_camo_F/TTS_Head_camo_F_13
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_F_Digital_Woodlands/TTS_Heads_camo_F/TTS_Head_camo_F_14
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_F_Digital_Woodlands/TTS_Heads_camo_F/TTS_Head_camo_F_15
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_F_Digital_Woodlands/TTS_Heads_camo_F/TTS_Head_camo_F_16
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_G_Digital_Urban
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_G_Digital_Urban/TTS_Bodies_camo_G
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_G_Digital_Urban/TTS_Bodies_camo_G/TTS_Backpack_G
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_G_Digital_Urban/TTS_Bodies_camo_G/TTS_Body_camo_G_01
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_G_Digital_Urban/TTS_Bodies_camo_G/TTS_Body_camo_G_02
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_G_Digital_Urban/TTS_Bodies_camo_G/TTS_Body_camo_G_03
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_G_Digital_Urban/TTS_Bodies_camo_G/TTS_Body_camo_G_04
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_G_Digital_Urban/TTS_Bodies_camo_G/TTS_Body_camo_G_05
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_G_Digital_Urban/TTS_Bodies_camo_G/TTS_Body_camo_G_06
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_G_Digital_Urban/TTS_Heads_camo_G
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_G_Digital_Urban/TTS_Heads_camo_G/TTS_Head_camo_G_00
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_G_Digital_Urban/TTS_Heads_camo_G/TTS_Head_camo_G_01
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_G_Digital_Urban/TTS_Heads_camo_G/TTS_Head_camo_G_02
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_G_Digital_Urban/TTS_Heads_camo_G/TTS_Head_camo_G_03
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_G_Digital_Urban/TTS_Heads_camo_G/TTS_Head_camo_G_04
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_G_Digital_Urban/TTS_Heads_camo_G/TTS_Head_camo_G_05
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_G_Digital_Urban/TTS_Heads_camo_G/TTS_Head_camo_G_06
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_G_Digital_Urban/TTS_Heads_camo_G/TTS_Head_camo_G_07
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_G_Digital_Urban/TTS_Heads_camo_G/TTS_Head_camo_G_08
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_G_Digital_Urban/TTS_Heads_camo_G/TTS_Head_camo_G_09
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_G_Digital_Urban/TTS_Heads_camo_G/TTS_Head_camo_G_10
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_G_Digital_Urban/TTS_Heads_camo_G/TTS_Head_camo_G_11
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_G_Digital_Urban/TTS_Heads_camo_G/TTS_Head_camo_G_12
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_G_Digital_Urban/TTS_Heads_camo_G/TTS_Head_camo_G_13
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_G_Digital_Urban/TTS_Heads_camo_G/TTS_Head_camo_G_14
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_G_Digital_Urban/TTS_Heads_camo_G/TTS_Head_camo_G_15
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_G_Digital_Urban/TTS_Heads_camo_G/TTS_Head_camo_G_16
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_H_Digital_Winter
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_H_Digital_Winter/TTS_Bodies_camo_H
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_H_Digital_Winter/TTS_Bodies_camo_H/TTS_Backpack_H
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_H_Digital_Winter/TTS_Bodies_camo_H/TTS_Body_camo_H_01
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_H_Digital_Winter/TTS_Bodies_camo_H/TTS_Body_camo_H_02
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_H_Digital_Winter/TTS_Bodies_camo_H/TTS_Body_camo_H_03
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_H_Digital_Winter/TTS_Bodies_camo_H/TTS_Body_camo_H_04
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_H_Digital_Winter/TTS_Bodies_camo_H/TTS_Body_camo_H_05
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_H_Digital_Winter/TTS_Bodies_camo_H/TTS_Body_camo_H_06
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_H_Digital_Winter/TTS_Heads_camo_H
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_H_Digital_Winter/TTS_Heads_camo_H/TTS_Head_camo_H_00
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_H_Digital_Winter/TTS_Heads_camo_H/TTS_Head_camo_H_01
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_H_Digital_Winter/TTS_Heads_camo_H/TTS_Head_camo_H_02
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_H_Digital_Winter/TTS_Heads_camo_H/TTS_Head_camo_H_03
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_H_Digital_Winter/TTS_Heads_camo_H/TTS_Head_camo_H_04
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_H_Digital_Winter/TTS_Heads_camo_H/TTS_Head_camo_H_05
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_H_Digital_Winter/TTS_Heads_camo_H/TTS_Head_camo_H_06
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_H_Digital_Winter/TTS_Heads_camo_H/TTS_Head_camo_H_07
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_H_Digital_Winter/TTS_Heads_camo_H/TTS_Head_camo_H_08
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_H_Digital_Winter/TTS_Heads_camo_H/TTS_Head_camo_H_09
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_H_Digital_Winter/TTS_Heads_camo_H/TTS_Head_camo_H_10
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_H_Digital_Winter/TTS_Heads_camo_H/TTS_Head_camo_H_11
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_H_Digital_Winter/TTS_Heads_camo_H/TTS_Head_camo_H_12
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_H_Digital_Winter/TTS_Heads_camo_H/TTS_Head_camo_H_13
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_H_Digital_Winter/TTS_Heads_camo_H/TTS_Head_camo_H_14
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_H_Digital_Winter/TTS_Heads_camo_H/TTS_Head_camo_H_15
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_H_Digital_Winter/TTS_Heads_camo_H/TTS_Head_camo_H_16
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_I_Snow
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_I_Snow/TTS_Bodies_camo_I
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_I_Snow/TTS_Bodies_camo_I/TTS_Backpack_I
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_I_Snow/TTS_Bodies_camo_I/TTS_Body_camo_I_01
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_I_Snow/TTS_Bodies_camo_I/TTS_Body_camo_I_02
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_I_Snow/TTS_Bodies_camo_I/TTS_Body_camo_I_03
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_I_Snow/TTS_Bodies_camo_I/TTS_Body_camo_I_04
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_I_Snow/TTS_Bodies_camo_I/TTS_Body_camo_I_05
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_I_Snow/TTS_Bodies_camo_I/TTS_Body_camo_I_06
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_I_Snow/TTS_Heads_camo_I
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_I_Snow/TTS_Heads_camo_I/TTS_Head_camo_I_00
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_I_Snow/TTS_Heads_camo_I/TTS_Head_camo_I_01
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_I_Snow/TTS_Heads_camo_I/TTS_Head_camo_I_02
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_I_Snow/TTS_Heads_camo_I/TTS_Head_camo_I_03
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_I_Snow/TTS_Heads_camo_I/TTS_Head_camo_I_04
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_I_Snow/TTS_Heads_camo_I/TTS_Head_camo_I_05
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_I_Snow/TTS_Heads_camo_I/TTS_Head_camo_I_06
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_I_Snow/TTS_Heads_camo_I/TTS_Head_camo_I_07
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_I_Snow/TTS_Heads_camo_I/TTS_Head_camo_I_08
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_I_Snow/TTS_Heads_camo_I/TTS_Head_camo_I_09
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_I_Snow/TTS_Heads_camo_I/TTS_Head_camo_I_10
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_I_Snow/TTS_Heads_camo_I/TTS_Head_camo_I_11
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_I_Snow/TTS_Heads_camo_I/TTS_Head_camo_I_12
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_I_Snow/TTS_Heads_camo_I/TTS_Head_camo_I_13
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_I_Snow/TTS_Heads_camo_I/TTS_Head_camo_I_14
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_I_Snow/TTS_Heads_camo_I/TTS_Head_camo_I_15
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_I_Snow/TTS_Heads_camo_I/TTS_Head_camo_I_16
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_J_Urban
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_J_Urban/TTS_Bodies_camo_J
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_J_Urban/TTS_Bodies_camo_J/TTS_Backpack_camo_J
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_J_Urban/TTS_Bodies_camo_J/TTS_Body_camo_J_01
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_J_Urban/TTS_Bodies_camo_J/TTS_Body_camo_J_02
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_J_Urban/TTS_Bodies_camo_J/TTS_Body_camo_J_03
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_J_Urban/TTS_Bodies_camo_J/TTS_Body_camo_J_04
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_J_Urban/TTS_Bodies_camo_J/TTS_Body_camo_J_05
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_J_Urban/TTS_Bodies_camo_J/TTS_Body_camo_J_06
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_J_Urban/TTS_Heads_camo_J
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_J_Urban/TTS_Heads_camo_J/TTS_Head_camo_J_00
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_J_Urban/TTS_Heads_camo_J/TTS_Head_camo_J_01
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_J_Urban/TTS_Heads_camo_J/TTS_Head_camo_J_02
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_J_Urban/TTS_Heads_camo_J/TTS_Head_camo_J_03
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_J_Urban/TTS_Heads_camo_J/TTS_Head_camo_J_04
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_J_Urban/TTS_Heads_camo_J/TTS_Head_camo_J_05
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_J_Urban/TTS_Heads_camo_J/TTS_Head_camo_J_06
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_J_Urban/TTS_Heads_camo_J/TTS_Head_camo_J_07
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_J_Urban/TTS_Heads_camo_J/TTS_Head_camo_J_08
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_J_Urban/TTS_Heads_camo_J/TTS_Head_camo_J_09
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_J_Urban/TTS_Heads_camo_J/TTS_Head_camo_J_10
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_J_Urban/TTS_Heads_camo_J/TTS_Head_camo_J_11
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_J_Urban/TTS_Heads_camo_J/TTS_Head_camo_J_12
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_J_Urban/TTS_Heads_camo_J/TTS_Head_camo_J_13
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_J_Urban/TTS_Heads_camo_J/TTS_Head_camo_J_14
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_J_Urban/TTS_Heads_camo_J/TTS_Head_camo_J_15
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_J_Urban/TTS_Heads_camo_J/TTS_Head_camo_J_16
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_K_Desert
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_K_Desert/TTS_Bodies_camo_K
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_K_Desert/TTS_Bodies_camo_K/TTS_Backpack_camo_K
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_K_Desert/TTS_Bodies_camo_K/TTS_Body_camo_K_01
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_K_Desert/TTS_Bodies_camo_K/TTS_Body_camo_K_02
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_K_Desert/TTS_Bodies_camo_K/TTS_Body_camo_K_03
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_K_Desert/TTS_Bodies_camo_K/TTS_Body_camo_K_04
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_K_Desert/TTS_Bodies_camo_K/TTS_Body_camo_K_05
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_K_Desert/TTS_Bodies_camo_K/TTS_Body_camo_K_06
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_K_Desert/TTS_Heads_camo_K
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_K_Desert/TTS_Heads_camo_K/TTS_Head_camo_K_00
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_K_Desert/TTS_Heads_camo_K/TTS_Head_camo_K_01
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_K_Desert/TTS_Heads_camo_K/TTS_Head_camo_K_02
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_K_Desert/TTS_Heads_camo_K/TTS_Head_camo_K_03
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_K_Desert/TTS_Heads_camo_K/TTS_Head_camo_K_04
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_K_Desert/TTS_Heads_camo_K/TTS_Head_camo_K_05
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_K_Desert/TTS_Heads_camo_K/TTS_Head_camo_K_06
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_K_Desert/TTS_Heads_camo_K/TTS_Head_camo_K_07
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_K_Desert/TTS_Heads_camo_K/TTS_Head_camo_K_08
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_K_Desert/TTS_Heads_camo_K/TTS_Head_camo_K_09
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_K_Desert/TTS_Heads_camo_K/TTS_Head_camo_K_10
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_K_Desert/TTS_Heads_camo_K/TTS_Head_camo_K_11
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_K_Desert/TTS_Heads_camo_K/TTS_Head_camo_K_12
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_K_Desert/TTS_Heads_camo_K/TTS_Head_camo_K_13
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_K_Desert/TTS_Heads_camo_K/TTS_Head_camo_K_14
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_K_Desert/TTS_Heads_camo_K/TTS_Head_camo_K_15
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_K_Desert/TTS_Heads_camo_K/TTS_Head_camo_K_16
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_L_GulfWar
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_L_GulfWar/TTS_Bodies_camo_L
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_L_GulfWar/TTS_Bodies_camo_L/TTS_Backpack_camo_L
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_L_GulfWar/TTS_Bodies_camo_L/TTS_Body_camo_L_01
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_L_GulfWar/TTS_Bodies_camo_L/TTS_Body_camo_L_02
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_L_GulfWar/TTS_Bodies_camo_L/TTS_Body_camo_L_03
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_L_GulfWar/TTS_Bodies_camo_L/TTS_Body_camo_L_04
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_L_GulfWar/TTS_Bodies_camo_L/TTS_Body_camo_L_05
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_L_GulfWar/TTS_Bodies_camo_L/TTS_Body_camo_L_06
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_L_GulfWar/TTS_Heads_camo_L
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_L_GulfWar/TTS_Heads_camo_L/TTS_Head_camo_L_00
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_L_GulfWar/TTS_Heads_camo_L/TTS_Head_camo_L_01
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_L_GulfWar/TTS_Heads_camo_L/TTS_Head_camo_L_02
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_L_GulfWar/TTS_Heads_camo_L/TTS_Head_camo_L_03
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_L_GulfWar/TTS_Heads_camo_L/TTS_Head_camo_L_04
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_L_GulfWar/TTS_Heads_camo_L/TTS_Head_camo_L_05
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_L_GulfWar/TTS_Heads_camo_L/TTS_Head_camo_L_06
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_L_GulfWar/TTS_Heads_camo_L/TTS_Head_camo_L_07
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_L_GulfWar/TTS_Heads_camo_L/TTS_Head_camo_L_08
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_L_GulfWar/TTS_Heads_camo_L/TTS_Head_camo_L_09
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_L_GulfWar/TTS_Heads_camo_L/TTS_Head_camo_L_10
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_L_GulfWar/TTS_Heads_camo_L/TTS_Head_camo_L_11
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_L_GulfWar/TTS_Heads_camo_L/TTS_Head_camo_L_12
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_L_GulfWar/TTS_Heads_camo_L/TTS_Head_camo_L_13
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_L_GulfWar/TTS_Heads_camo_L/TTS_Head_camo_L_14
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_L_GulfWar/TTS_Heads_camo_L/TTS_Head_camo_L_15
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_L_GulfWar/TTS_Heads_camo_L/TTS_Head_camo_L_16
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_M_Red
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_M_Red/TTS_Bodies_camo_M
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_M_Red/TTS_Bodies_camo_M/TTS_Backpack_camo_M
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_M_Red/TTS_Bodies_camo_M/TTS_Body_camo_M_01
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_M_Red/TTS_Bodies_camo_M/TTS_Body_camo_M_02
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_M_Red/TTS_Bodies_camo_M/TTS_Body_camo_M_03
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_M_Red/TTS_Bodies_camo_M/TTS_Body_camo_M_04
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_M_Red/TTS_Bodies_camo_M/TTS_Body_camo_M_05
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_M_Red/TTS_Bodies_camo_M/TTS_Body_camo_M_06
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_M_Red/TTS_Heads_camo_M
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_M_Red/TTS_Heads_camo_M/TTS_Head_camo_M_00
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_M_Red/TTS_Heads_camo_M/TTS_Head_camo_M_01
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_M_Red/TTS_Heads_camo_M/TTS_Head_camo_M_02
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_M_Red/TTS_Heads_camo_M/TTS_Head_camo_M_03
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_M_Red/TTS_Heads_camo_M/TTS_Head_camo_M_04
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_M_Red/TTS_Heads_camo_M/TTS_Head_camo_M_05
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_M_Red/TTS_Heads_camo_M/TTS_Head_camo_M_06
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_M_Red/TTS_Heads_camo_M/TTS_Head_camo_M_07
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_M_Red/TTS_Heads_camo_M/TTS_Head_camo_M_08
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_M_Red/TTS_Heads_camo_M/TTS_Head_camo_M_09
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_M_Red/TTS_Heads_camo_M/TTS_Head_camo_M_10
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_M_Red/TTS_Heads_camo_M/TTS_Head_camo_M_11
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_M_Red/TTS_Heads_camo_M/TTS_Head_camo_M_12
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_M_Red/TTS_Heads_camo_M/TTS_Head_camo_M_13
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_M_Red/TTS_Heads_camo_M/TTS_Head_camo_M_14
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_M_Red/TTS_Heads_camo_M/TTS_Head_camo_M_15
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_M_Red/TTS_Heads_camo_M/TTS_Head_camo_M_16
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_N_Navy
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_N_Navy/TTS_Bodies_camo_N
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_N_Navy/TTS_Bodies_camo_N/TTS_Backpack_camo_N
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_N_Navy/TTS_Bodies_camo_N/TTS_Body_camo_N_01
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_N_Navy/TTS_Bodies_camo_N/TTS_Body_camo_N_02
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_N_Navy/TTS_Bodies_camo_N/TTS_Body_camo_N_03
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_N_Navy/TTS_Bodies_camo_N/TTS_Body_camo_N_04
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_N_Navy/TTS_Bodies_camo_N/TTS_Body_camo_N_05
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_N_Navy/TTS_Bodies_camo_N/TTS_Body_camo_N_06
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_N_Navy/TTS_Heads_camo_N
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_N_Navy/TTS_Heads_camo_N/TTS_Head_camo_N_00
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_N_Navy/TTS_Heads_camo_N/TTS_Head_camo_N_01
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_N_Navy/TTS_Heads_camo_N/TTS_Head_camo_N_02
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_N_Navy/TTS_Heads_camo_N/TTS_Head_camo_N_03
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_N_Navy/TTS_Heads_camo_N/TTS_Head_camo_N_04
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_N_Navy/TTS_Heads_camo_N/TTS_Head_camo_N_05
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_N_Navy/TTS_Heads_camo_N/TTS_Head_camo_N_06
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_N_Navy/TTS_Heads_camo_N/TTS_Head_camo_N_07
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_N_Navy/TTS_Heads_camo_N/TTS_Head_camo_N_08
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_N_Navy/TTS_Heads_camo_N/TTS_Head_camo_N_09
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_N_Navy/TTS_Heads_camo_N/TTS_Head_camo_N_10
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_N_Navy/TTS_Heads_camo_N/TTS_Head_camo_N_11
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_N_Navy/TTS_Heads_camo_N/TTS_Head_camo_N_12
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_N_Navy/TTS_Heads_camo_N/TTS_Head_camo_N_13
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_N_Navy/TTS_Heads_camo_N/TTS_Head_camo_N_14
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_N_Navy/TTS_Heads_camo_N/TTS_Head_camo_N_15
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Camouflage/TTS_SC_N_Navy/TTS_Heads_camo_N/TTS_Head_camo_N_16
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_A_Military_Green
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_A_Military_Green/TTS_Bodies_Plain_A
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_A_Military_Green/TTS_Bodies_Plain_A/TTS_Backpack_plain_A
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_A_Military_Green/TTS_Bodies_Plain_A/TTS_Body_plain_A_01
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_A_Military_Green/TTS_Bodies_Plain_A/TTS_Body_plain_A_02
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_A_Military_Green/TTS_Bodies_Plain_A/TTS_Body_plain_A_03
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_A_Military_Green/TTS_Bodies_Plain_A/TTS_Body_plain_A_04
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_A_Military_Green/TTS_Bodies_Plain_A/TTS_Body_plain_A_05
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_A_Military_Green/TTS_Bodies_Plain_A/TTS_Body_plain_A_06
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_A_Military_Green/TTS_Bodies_Plain_A/TTS_Body_plain_A_07
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_A_Military_Green/TTS_Heads_Plain_A
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_A_Military_Green/TTS_Heads_Plain_A/TTS_Head_plain_A_01
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_A_Military_Green/TTS_Heads_Plain_A/TTS_Head_plain_A_02
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_A_Military_Green/TTS_Heads_Plain_A/TTS_Head_plain_A_03
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_A_Military_Green/TTS_Heads_Plain_A/TTS_Head_plain_A_04
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_A_Military_Green/TTS_Heads_Plain_A/TTS_Head_plain_A_05
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_A_Military_Green/TTS_Heads_Plain_A/TTS_Head_plain_A_06
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_A_Military_Green/TTS_Heads_Plain_A/TTS_Head_plain_A_07
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_A_Military_Green/TTS_Heads_Plain_A/TTS_Head_plain_A_08
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_A_Military_Green/TTS_Heads_Plain_A/TTS_Head_plain_A_09
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_A_Military_Green/TTS_Heads_Plain_A/TTS_Head_plain_A_10
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_A_Military_Green/TTS_Heads_Plain_A/TTS_Head_plain_A_11
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_A_Military_Green/TTS_Heads_Plain_A/TTS_Head_plain_A_12
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_A_Military_Green/TTS_Heads_Plain_A/TTS_Head_plain_A_13
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_A_Military_Green/TTS_Heads_Plain_A/TTS_Head_plain_A_14
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_A_Military_Green/TTS_Heads_Plain_A/TTS_Head_plain_A_15
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_A_Military_Green/TTS_Heads_Plain_A/TTS_Head_plain_A_16
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_B_Jungle
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_B_Jungle/TTS_Bodies_Plain_B
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_B_Jungle/TTS_Bodies_Plain_B/TTS_Backpack_plain_B
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_B_Jungle/TTS_Bodies_Plain_B/TTS_Body_plain_B_01
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_B_Jungle/TTS_Bodies_Plain_B/TTS_Body_plain_B_02
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_B_Jungle/TTS_Bodies_Plain_B/TTS_Body_plain_B_03
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_B_Jungle/TTS_Bodies_Plain_B/TTS_Body_plain_B_04
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_B_Jungle/TTS_Bodies_Plain_B/TTS_Body_plain_B_05
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_B_Jungle/TTS_Bodies_Plain_B/TTS_Body_plain_B_06
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_B_Jungle/TTS_Bodies_Plain_B/TTS_Body_plain_B_07
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_B_Jungle/TTS_Heads_Plain_B
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_B_Jungle/TTS_Heads_Plain_B/TTS_Head_plain_B_01
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_B_Jungle/TTS_Heads_Plain_B/TTS_Head_plain_B_02
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_B_Jungle/TTS_Heads_Plain_B/TTS_Head_plain_B_03
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_B_Jungle/TTS_Heads_Plain_B/TTS_Head_plain_B_04
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_B_Jungle/TTS_Heads_Plain_B/TTS_Head_plain_B_05
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_B_Jungle/TTS_Heads_Plain_B/TTS_Head_plain_B_06
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_B_Jungle/TTS_Heads_Plain_B/TTS_Head_plain_B_07
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_B_Jungle/TTS_Heads_Plain_B/TTS_Head_plain_B_08
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_B_Jungle/TTS_Heads_Plain_B/TTS_Head_plain_B_09
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_B_Jungle/TTS_Heads_Plain_B/TTS_Head_plain_B_10
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_B_Jungle/TTS_Heads_Plain_B/TTS_Head_plain_B_11
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_B_Jungle/TTS_Heads_Plain_B/TTS_Head_plain_B_12
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_B_Jungle/TTS_Heads_Plain_B/TTS_Head_plain_B_13
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_B_Jungle/TTS_Heads_Plain_B/TTS_Head_plain_B_14
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_B_Jungle/TTS_Heads_Plain_B/TTS_Head_plain_B_15
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_B_Jungle/TTS_Heads_Plain_B/TTS_Head_plain_B_16
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_C_Brown
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_C_Brown/TTS_Bodies_Plain_C
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_C_Brown/TTS_Bodies_Plain_C/TTS_Backpack_plain_C
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_C_Brown/TTS_Bodies_Plain_C/TTS_Body_plain_C_01
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_C_Brown/TTS_Bodies_Plain_C/TTS_Body_plain_C_02
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_C_Brown/TTS_Bodies_Plain_C/TTS_Body_plain_C_03
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_C_Brown/TTS_Bodies_Plain_C/TTS_Body_plain_C_04
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_C_Brown/TTS_Bodies_Plain_C/TTS_Body_plain_C_05
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_C_Brown/TTS_Bodies_Plain_C/TTS_Body_plain_C_06
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_C_Brown/TTS_Bodies_Plain_C/TTS_Body_plain_C_07
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_C_Brown/TTS_Heads_Plain_C
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_C_Brown/TTS_Heads_Plain_C/TTS_Head_plain_C_01
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_C_Brown/TTS_Heads_Plain_C/TTS_Head_plain_C_02
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_C_Brown/TTS_Heads_Plain_C/TTS_Head_plain_C_03
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_C_Brown/TTS_Heads_Plain_C/TTS_Head_plain_C_04
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_C_Brown/TTS_Heads_Plain_C/TTS_Head_plain_C_05
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_C_Brown/TTS_Heads_Plain_C/TTS_Head_plain_C_06
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_C_Brown/TTS_Heads_Plain_C/TTS_Head_plain_C_07
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_C_Brown/TTS_Heads_Plain_C/TTS_Head_plain_C_08
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_C_Brown/TTS_Heads_Plain_C/TTS_Head_plain_C_09
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_C_Brown/TTS_Heads_Plain_C/TTS_Head_plain_C_10
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_C_Brown/TTS_Heads_Plain_C/TTS_Head_plain_C_11
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_C_Brown/TTS_Heads_Plain_C/TTS_Head_plain_C_12
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_C_Brown/TTS_Heads_Plain_C/TTS_Head_plain_C_13
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_C_Brown/TTS_Heads_Plain_C/TTS_Head_plain_C_14
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_C_Brown/TTS_Heads_Plain_C/TTS_Head_plain_C_15
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_C_Brown/TTS_Heads_Plain_C/TTS_Head_plain_C_16
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_D_Universal
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_D_Universal/TTS_Bodies_Plain_D
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_D_Universal/TTS_Bodies_Plain_D/TTS_Backpack_plain_D
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_D_Universal/TTS_Bodies_Plain_D/TTS_Body_plain_D_01
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_D_Universal/TTS_Bodies_Plain_D/TTS_Body_plain_D_02
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_D_Universal/TTS_Bodies_Plain_D/TTS_Body_plain_D_03
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_D_Universal/TTS_Bodies_Plain_D/TTS_Body_plain_D_04
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_D_Universal/TTS_Bodies_Plain_D/TTS_Body_plain_D_05
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_D_Universal/TTS_Bodies_Plain_D/TTS_Body_plain_D_06
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_D_Universal/TTS_Bodies_Plain_D/TTS_Body_plain_D_07
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_D_Universal/TTS_Heads_Plain_D
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_D_Universal/TTS_Heads_Plain_D/TTS_Head_plain_D_01
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_D_Universal/TTS_Heads_Plain_D/TTS_Head_plain_D_02
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_D_Universal/TTS_Heads_Plain_D/TTS_Head_plain_D_03
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_D_Universal/TTS_Heads_Plain_D/TTS_Head_plain_D_04
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_D_Universal/TTS_Heads_Plain_D/TTS_Head_plain_D_05
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_D_Universal/TTS_Heads_Plain_D/TTS_Head_plain_D_06
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_D_Universal/TTS_Heads_Plain_D/TTS_Head_plain_D_07
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_D_Universal/TTS_Heads_Plain_D/TTS_Head_plain_D_08
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_D_Universal/TTS_Heads_Plain_D/TTS_Head_plain_D_09
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_D_Universal/TTS_Heads_Plain_D/TTS_Head_plain_D_10
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_D_Universal/TTS_Heads_Plain_D/TTS_Head_plain_D_11
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_D_Universal/TTS_Heads_Plain_D/TTS_Head_plain_D_12
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_D_Universal/TTS_Heads_Plain_D/TTS_Head_plain_D_13
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_D_Universal/TTS_Heads_Plain_D/TTS_Head_plain_D_14
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_D_Universal/TTS_Heads_Plain_D/TTS_Head_plain_D_15
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_D_Universal/TTS_Heads_Plain_D/TTS_Head_plain_D_16
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_E_Desert
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_E_Desert/TTS_Bodies_Plain_E
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_E_Desert/TTS_Bodies_Plain_E/TTS_Backpack_plain_E
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_E_Desert/TTS_Bodies_Plain_E/TTS_Body_plain_E_01
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_E_Desert/TTS_Bodies_Plain_E/TTS_Body_plain_E_02
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_E_Desert/TTS_Bodies_Plain_E/TTS_Body_plain_E_03
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_E_Desert/TTS_Bodies_Plain_E/TTS_Body_plain_E_04
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_E_Desert/TTS_Bodies_Plain_E/TTS_Body_plain_E_05
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_E_Desert/TTS_Bodies_Plain_E/TTS_Body_plain_E_06
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_E_Desert/TTS_Bodies_Plain_E/TTS_Body_plain_E_07
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_E_Desert/TTS_Heads_Plain_E
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_E_Desert/TTS_Heads_Plain_E/TTS_Head_plain_E_01
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_E_Desert/TTS_Heads_Plain_E/TTS_Head_plain_E_02
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_E_Desert/TTS_Heads_Plain_E/TTS_Head_plain_E_03
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_E_Desert/TTS_Heads_Plain_E/TTS_Head_plain_E_04
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_E_Desert/TTS_Heads_Plain_E/TTS_Head_plain_E_05
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_E_Desert/TTS_Heads_Plain_E/TTS_Head_plain_E_06
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_E_Desert/TTS_Heads_Plain_E/TTS_Head_plain_E_07
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_E_Desert/TTS_Heads_Plain_E/TTS_Head_plain_E_08
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_E_Desert/TTS_Heads_Plain_E/TTS_Head_plain_E_09
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_E_Desert/TTS_Heads_Plain_E/TTS_Head_plain_E_10
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_E_Desert/TTS_Heads_Plain_E/TTS_Head_plain_E_11
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_E_Desert/TTS_Heads_Plain_E/TTS_Head_plain_E_12
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_E_Desert/TTS_Heads_Plain_E/TTS_Head_plain_E_13
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_E_Desert/TTS_Heads_Plain_E/TTS_Head_plain_E_14
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_E_Desert/TTS_Heads_Plain_E/TTS_Head_plain_E_15
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_E_Desert/TTS_Heads_Plain_E/TTS_Head_plain_E_16
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_F_Winter
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_F_Winter/TTS_Bodies_Plain_F
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_F_Winter/TTS_Bodies_Plain_F/TTS_Backpack_plain_F
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_F_Winter/TTS_Bodies_Plain_F/TTS_Body_plain_F_01
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_F_Winter/TTS_Bodies_Plain_F/TTS_Body_plain_F_02
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_F_Winter/TTS_Bodies_Plain_F/TTS_Body_plain_F_03
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_F_Winter/TTS_Bodies_Plain_F/TTS_Body_plain_F_04
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_F_Winter/TTS_Bodies_Plain_F/TTS_Body_plain_F_05
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_F_Winter/TTS_Bodies_Plain_F/TTS_Body_plain_F_06
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_F_Winter/TTS_Bodies_Plain_F/TTS_Body_plain_F_07
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_F_Winter/TTS_Heads_Plain_F
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_F_Winter/TTS_Heads_Plain_F/TTS_Head_plain_F_01
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_F_Winter/TTS_Heads_Plain_F/TTS_Head_plain_F_02
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_F_Winter/TTS_Heads_Plain_F/TTS_Head_plain_F_03
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_F_Winter/TTS_Heads_Plain_F/TTS_Head_plain_F_04
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_F_Winter/TTS_Heads_Plain_F/TTS_Head_plain_F_05
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_F_Winter/TTS_Heads_Plain_F/TTS_Head_plain_F_06
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_F_Winter/TTS_Heads_Plain_F/TTS_Head_plain_F_07
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_F_Winter/TTS_Heads_Plain_F/TTS_Head_plain_F_08
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_F_Winter/TTS_Heads_Plain_F/TTS_Head_plain_F_09
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_F_Winter/TTS_Heads_Plain_F/TTS_Head_plain_F_10
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_F_Winter/TTS_Heads_Plain_F/TTS_Head_plain_F_11
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_F_Winter/TTS_Heads_Plain_F/TTS_Head_plain_F_12
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_F_Winter/TTS_Heads_Plain_F/TTS_Head_plain_F_13
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_F_Winter/TTS_Heads_Plain_F/TTS_Head_plain_F_14
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_F_Winter/TTS_Heads_Plain_F/TTS_Head_plain_F_15
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_F_Winter/TTS_Heads_Plain_F/TTS_Head_plain_F_16
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_G_Urban
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_G_Urban/TTS_Bodies_Plain_G
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_G_Urban/TTS_Bodies_Plain_G/TTS_Backpack_plain_G
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_G_Urban/TTS_Bodies_Plain_G/TTS_Body_plain_G_01
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_G_Urban/TTS_Bodies_Plain_G/TTS_Body_plain_G_02
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_G_Urban/TTS_Bodies_Plain_G/TTS_Body_plain_G_03
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_G_Urban/TTS_Bodies_Plain_G/TTS_Body_plain_G_04
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_G_Urban/TTS_Bodies_Plain_G/TTS_Body_plain_G_05
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_G_Urban/TTS_Bodies_Plain_G/TTS_Body_plain_G_06
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_G_Urban/TTS_Bodies_Plain_G/TTS_Body_plain_G_07
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_G_Urban/TTS_Heads_Plain_G
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_G_Urban/TTS_Heads_Plain_G/TTS_Head_plain_G_01
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_G_Urban/TTS_Heads_Plain_G/TTS_Head_plain_G_02
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_G_Urban/TTS_Heads_Plain_G/TTS_Head_plain_G_03
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_G_Urban/TTS_Heads_Plain_G/TTS_Head_plain_G_04
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_G_Urban/TTS_Heads_Plain_G/TTS_Head_plain_G_05
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_G_Urban/TTS_Heads_Plain_G/TTS_Head_plain_G_06
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_G_Urban/TTS_Heads_Plain_G/TTS_Head_plain_G_07
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_G_Urban/TTS_Heads_Plain_G/TTS_Head_plain_G_08
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_G_Urban/TTS_Heads_Plain_G/TTS_Head_plain_G_09
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_G_Urban/TTS_Heads_Plain_G/TTS_Head_plain_G_10
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_G_Urban/TTS_Heads_Plain_G/TTS_Head_plain_G_11
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_G_Urban/TTS_Heads_Plain_G/TTS_Head_plain_G_12
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_G_Urban/TTS_Heads_Plain_G/TTS_Head_plain_G_13
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_G_Urban/TTS_Heads_Plain_G/TTS_Head_plain_G_14
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_G_Urban/TTS_Heads_Plain_G/TTS_Head_plain_G_15
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_G_Urban/TTS_Heads_Plain_G/TTS_Head_plain_G_16
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_H_Police_Blue
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_H_Police_Blue/TTS_Bodies_Plain_H
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_H_Police_Blue/TTS_Bodies_Plain_H/TTS_Backpack_plain_H
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_H_Police_Blue/TTS_Bodies_Plain_H/TTS_Body_plain_H_01
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_H_Police_Blue/TTS_Bodies_Plain_H/TTS_Body_plain_H_02
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_H_Police_Blue/TTS_Bodies_Plain_H/TTS_Body_plain_H_03
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_H_Police_Blue/TTS_Bodies_Plain_H/TTS_Body_plain_H_04
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_H_Police_Blue/TTS_Bodies_Plain_H/TTS_Body_plain_H_05
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_H_Police_Blue/TTS_Bodies_Plain_H/TTS_Body_plain_H_06
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_H_Police_Blue/TTS_Bodies_Plain_H/TTS_Body_plain_H_07
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_H_Police_Blue/TTS_Heads_Plain_H
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_H_Police_Blue/TTS_Heads_Plain_H/TTS_Head_plain_H_01
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_H_Police_Blue/TTS_Heads_Plain_H/TTS_Head_plain_H_02
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_H_Police_Blue/TTS_Heads_Plain_H/TTS_Head_plain_H_03
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_H_Police_Blue/TTS_Heads_Plain_H/TTS_Head_plain_H_04
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_H_Police_Blue/TTS_Heads_Plain_H/TTS_Head_plain_H_05
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_H_Police_Blue/TTS_Heads_Plain_H/TTS_Head_plain_H_06
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_H_Police_Blue/TTS_Heads_Plain_H/TTS_Head_plain_H_07
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_H_Police_Blue/TTS_Heads_Plain_H/TTS_Head_plain_H_08
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_H_Police_Blue/TTS_Heads_Plain_H/TTS_Head_plain_H_09
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_H_Police_Blue/TTS_Heads_Plain_H/TTS_Head_plain_H_10
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_H_Police_Blue/TTS_Heads_Plain_H/TTS_Head_plain_H_11
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_H_Police_Blue/TTS_Heads_Plain_H/TTS_Head_plain_H_12
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_H_Police_Blue/TTS_Heads_Plain_H/TTS_Head_plain_H_13
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_H_Police_Blue/TTS_Heads_Plain_H/TTS_Head_plain_H_14
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_H_Police_Blue/TTS_Heads_Plain_H/TTS_Head_plain_H_15
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_H_Police_Blue/TTS_Heads_Plain_H/TTS_Head_plain_H_16
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_I_Police_Black
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_I_Police_Black/TTS_Bodies_Plain_I
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_I_Police_Black/TTS_Bodies_Plain_I/TTS_Backpack_plain_I
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_I_Police_Black/TTS_Bodies_Plain_I/TTS_Body_plain_I_01
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_I_Police_Black/TTS_Bodies_Plain_I/TTS_Body_plain_I_02
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_I_Police_Black/TTS_Bodies_Plain_I/TTS_Body_plain_I_03
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_I_Police_Black/TTS_Bodies_Plain_I/TTS_Body_plain_I_04
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_I_Police_Black/TTS_Bodies_Plain_I/TTS_Body_plain_I_05
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_I_Police_Black/TTS_Bodies_Plain_I/TTS_Body_plain_I_06
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_I_Police_Black/TTS_Bodies_Plain_I/TTS_Body_plain_I_07
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_I_Police_Black/TTS_Heads_Plain_I
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_I_Police_Black/TTS_Heads_Plain_I/TTS_Head_plain_I_01
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_I_Police_Black/TTS_Heads_Plain_I/TTS_Head_plain_I_02
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_I_Police_Black/TTS_Heads_Plain_I/TTS_Head_plain_I_03
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_I_Police_Black/TTS_Heads_Plain_I/TTS_Head_plain_I_04
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_I_Police_Black/TTS_Heads_Plain_I/TTS_Head_plain_I_05
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_I_Police_Black/TTS_Heads_Plain_I/TTS_Head_plain_I_06
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_I_Police_Black/TTS_Heads_Plain_I/TTS_Head_plain_I_07
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_I_Police_Black/TTS_Heads_Plain_I/TTS_Head_plain_I_08
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_I_Police_Black/TTS_Heads_Plain_I/TTS_Head_plain_I_09
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_I_Police_Black/TTS_Heads_Plain_I/TTS_Head_plain_I_10
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_I_Police_Black/TTS_Heads_Plain_I/TTS_Head_plain_I_11
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_I_Police_Black/TTS_Heads_Plain_I/TTS_Head_plain_I_12
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_I_Police_Black/TTS_Heads_Plain_I/TTS_Head_plain_I_13
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_I_Police_Black/TTS_Heads_Plain_I/TTS_Head_plain_I_14
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_I_Police_Black/TTS_Heads_Plain_I/TTS_Head_plain_I_15
+    m_Weight: 1
+  - m_Path: TTS_Soldiers_Plain_Uniform/TTS_SP_I_Police_Black/TTS_Heads_Plain_I/TTS_Head_plain_I_16
+    m_Weight: 1

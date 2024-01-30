@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1749546317721872509
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8209220794051311824}
+  - component: {fileID: 1075220455814687799}
+  - component: {fileID: 5032650218778094642}
+  - component: {fileID: 2372563885951274429}
+  - component: {fileID: 2564175661058868806}
+  m_Layer: 0
+  m_Name: Managers
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8209220794051311824
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1749546317721872509}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1075220455814687799
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1749546317721872509}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04f5b20a456602a44a7fa2ed278512fb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  <IsGamePaused>k__BackingField: 0
+  <IsGameOver>k__BackingField: 0
+--- !u!114 &5032650218778094642
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1749546317721872509}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2ba69756b04d5e40a49875b9e658f51, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bulletPrefab: {fileID: 7917145585058488944, guid: a04f608ab583d6c4992b2a48c2b1f8ef,
+    type: 3}
+  rpgRocketPrefab: {fileID: 3114034171216054786, guid: 73bc1b5f121da5140a201beb049231dc,
+    type: 3}
+  impactConcretePrefab: {fileID: 3080816224076996188, guid: 361dfc8c9612d2c489ee84c9a5af2d0d,
+    type: 3}
+  impactBloodSpatterPrefab: {fileID: 8327653626088918726, guid: 64711c02c1f7b8440925ec770c735b00,
+    type: 3}
+  sleepingPrefab: {fileID: 8929334299462080995, guid: 3a93c0b72ce3c8147abcba2a12bc9316,
+    type: 3}
+  bloodPoolPrefab: {fileID: 4107276725633851773, guid: 94be202b9a0ae164fa8753435220d732,
+    type: 3}
+  explosionPrefab: {fileID: 7104895300703144575, guid: 02618257c3638ce449ecfbbd09a861fc,
+    type: 3}
+--- !u!114 &2372563885951274429
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1749546317721872509}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0e8bd69421e9694d87f03297fb6c488, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  <ImpactAudio>k__BackingField:
+    hitConcrete: {fileID: 8300000, guid: ec15e729af2d92449916fb4f1883facc, type: 3}
+    hitBody: {fileID: 8300000, guid: c932ecf4ae51a6b46a4f925cb822468b, type: 3}
+    explosion: {fileID: 8300000, guid: 92d3259b6a9732e4ba3fb95331b2c95d, type: 3}
+  <CharacterAudio>k__BackingField:
+    overheadKnockoutAudio:
+    - {fileID: 8300000, guid: 62a14edcc8d9f7543b83d8e744ee0cc4, type: 3}
+    - {fileID: 8300000, guid: b8d500ed64506194bad46382360fc130, type: 3}
+    bodyDropAudio: {fileID: 8300000, guid: b8d500ed64506194bad46382360fc130, type: 3}
+    hitAudio: {fileID: 8300000, guid: bc11b938de37f774ca7dae095e769329, type: 3}
+    deathAudio: {fileID: 8300000, guid: 53641c40c739cdc45853878d671bcf5f, type: 3}
+    suspiciousAudio: {fileID: 8300000, guid: e02f06ad250f3d64c88ec0cf77e29d63, type: 3}
+    alertedAudio: {fileID: 8300000, guid: a79a3ce3f49393e439ab2890fb53115b, type: 3}
+    punchAudio: {fileID: 8300000, guid: 9980c3fc03f54be489c0b2c9e728e5f2, type: 3}
+--- !u!114 &2564175661058868806
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1749546317721872509}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1b4c7b2c07967047950dce8b0438ba9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  <AllObjectivesCompleted>k__BackingField: 0
+  <GetAllKeycards>k__BackingField:
+    isCompleted: 0
+    <EnableObjective>k__BackingField: 0
+  <KillAllEnemies>k__BackingField:
+    isCompleted: 0
+    <EnableObjective>k__BackingField: 0
+  <NoDetection>k__BackingField:
+    isCompleted: 0
+    <EnableObjective>k__BackingField: 0
+  <CurrentKeycardsCount>k__BackingField: 0
+  <CurrentEnemiesCount>k__BackingField: 0
