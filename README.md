@@ -1,5 +1,5 @@
 # Top-down Stealth Action Shooter - Stripped down Unity project
-This Github repo is a stripped down version of a bigger personal game project. For portfolio demonstration purposes, I removed all third party assets from my real, private repo in this public repo to avoid license issues. 
+Disclaimer: This Github repo is a stripped down version of a bigger personal game project. For portfolio demonstration purposes, I made this repo as a clone of my real project and removed all third party assets to avoid licensing/legal issues. This means that this project won't compile and has many missing assets, so it's only for inspection purposes.
 
 During a two-month development of this top-down stealth action shooter game, my aim was creating a vertical slice that both draws inspiration from and expands upon the gameplay of Metal Gear Solid: VR Missions (1999). All code in the Assets/Scripts folder of this repo has been written by me. 
 
